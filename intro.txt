@@ -1,0 +1,3 @@
+Name: Pj Turing
+Course: Bachelor of Science in Information Technology
+Interests in programming: Bug Fixing
